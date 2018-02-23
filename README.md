@@ -1,2 +1,3 @@
-# IDEALIST
-record idea, just do it
+# 奇妙清单
+
+记录平时的一些奇思妙想，择机实现
